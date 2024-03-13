@@ -11,3 +11,7 @@
 | CholecSeg8k   | Video | Lap | Cholecystectomy | Pixel | Y | Pixel | N     | N | N | 17 | link |
 | Cholec80+HTA  | Video | Lap | Cholecystectomy | N     | N | N     | N     | N | Y | 80 | [link](https://github.com/bnamazi/HTA_3D_CNN/tree/master/data/All_chole80_annotations) |
 | HeiCo         | Video | Lap | Colorectal      | Pixel | N | N     | N     | N | Y | 30 | [link](https://www.synapse.org/#!Synapse:syn21903917/wiki/601992) |
+| MultiBypass140 | Video | Lap | LRYGB      | N | N | N     | N     | N | Y | 140 | [link]([https://www.synapse.org/#!Synapse:syn21903917/wiki/601992](https://github.com/CAMMA-public/MultiBypass140)https://github.com/CAMMA-public/MultiBypass140) |
+| Endoscapes-CVS201 | Video | Lap | Cholecystectomy | N | N | N | N | N | N | 201 | [link](https://github.com/CAMMA-public/Endoscapes) |
+| Endoscapes-BBox201 | Video | Lap | Cholecystectomy | Box | Y | Box | N | N | N | 201 | [link](https://github.com/CAMMA-public/Endoscapes) |
+| Endoscapes-Seg50 | Video | Lap | Cholecystectomy | Pixel | Y | Pixel | N | N | N | 50 | [link](https://github.com/CAMMA-public/Endoscapes) |
